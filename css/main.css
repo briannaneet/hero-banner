@@ -5,3 +5,21 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+img {
+  width: 100%;
+}
+
+h1 {
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 4rem;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  font-size: 2rem;
+}
